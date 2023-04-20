@@ -1,6 +1,6 @@
 # Tramline
 
-📲🚃
+📲 🚃
 
 Tramline is a new open-source release management platform for reliably and efficiently releasing mobile apps.
 
